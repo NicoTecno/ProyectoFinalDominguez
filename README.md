@@ -1,4 +1,4 @@
-Proyecto Ecommerce React
+##Proyecto Ecommerce React
 Descripción
 El Proyecto Final del curso de ReactJS de Coderhouse es una aplicación que se conecta a una base de datos de Firestore. Con esta aplicación, los usuarios pueden seleccionar productos, ver sus detalles, agregarlos al carrito, solicitar datos de los clientes y simular la compra de los productos. Al hacer clic en el botón "Finalizar compra", se le pedirá al usuario que complete un formulario con información básica. Después de confirmar, se generará un ID de orden de compra en Firebase, donde se almacenará la información del cliente y los productos comprados.
 Tecnologias utilizadas 🛠️

@@ -1,0 +1,251 @@
+[
+  {
+    "id": "AyUwObWeTA1p2fIZtCux",
+    "title": "Pc1",
+    "description": " Descripcion",
+    "price": 100000,
+    "pictureUrl": "Pcs/Pc_gamer_1.png",
+    "category": "Pc_Armada"
+  },
+  {
+    "id": 2,
+    "title": "Pc2",
+    "description": " Descripcion",
+    "price": 120000,
+    "pictureUrl": "Pcs/pc_pro_gamer_1.png",
+    "category": "Pc_Armada"
+  },
+  {
+    "id": 3,
+    "title": "Pc3",
+    "description": " Descripcion",
+    "price": 190000,
+    "pictureUrl": "Pcs/pc_pro_gamer_3.png",
+    "category": "Pc_Armada"
+  },
+  {
+    "id": 4,
+    "title": "Pc4",
+    "description": " Descripcion",
+    "price": 150000,
+    "pictureUrl": "Pcs/Pc_gamer_3.webp",
+    "category": "Pc_Armada"
+  },
+
+  {
+    "id": 5,
+    "title": "Procesador1",
+    "description": " Descripcion",
+    "price": 75000,
+    "pictureUrl": "procesadores/ryzen7.webp",
+    "category": "Procesadores"
+  },
+  {
+    "id": 6,
+    "title": "Procesador2",
+    "description": " Descripcion",
+    "price": 80000,
+    "pictureUrl": "procesadores/I7.png",
+    "category": "Procesadores"
+  },
+  {
+    "id": 7,
+    "title": "Procesador3",
+    "description": " Descripcion",
+    "price": 40000,
+    "pictureUrl": "procesadores/I5.png",
+    "category": "Procesadores"
+  },
+  {
+    "id": 8,
+    "title": "Mother1",
+    "description": " Descripcion",
+    "price": 35000,
+    "pictureUrl": "mothers/mother-2.png",
+    "category": "Mothers"
+  },
+  {
+    "id": 9,
+    "title": "Mother2",
+    "description": " Descripcion",
+    "price": 40000,
+    "pictureUrl": "mothers/mother-gigabyte-z690-aorus-ultra-ddr5-s1700-0.jpg",
+    "category": "Mothers"
+  },
+  {
+    "id": 10,
+    "title": "Mother3",
+    "price": 45000,
+    "description": " Descripcion",
+    "pictureUrl": "mothers/mother-3.jpg",
+    "category": "Mothers"
+  },
+  {
+    "id": 11,
+    "title": "Disco1",
+    "description": " Descripcion",
+    "price": 15000,
+    "pictureUrl": "almacenamiento/skyhawk-2tb.png",
+    "category": "Almacenamiento"
+  },
+  {
+    "id": 12,
+    "title": "Disco2",
+    "description": " Descripcion",
+    "price": 17000,
+    "pictureUrl": "almacenamiento/WD.png",
+    "category": "Almacenamiento"
+  },
+  {
+    "id": 13,
+    "title": "Disco3",
+    "description": " Descripcion",
+    "price": 20000,
+    "pictureUrl": "almacenamiento/SH-2.webp",
+    "category": "Almacenamiento"
+  },
+  {
+    "id": 14,
+    "title": "Ram1",
+    "description": " Descripcion",
+    "pictureUrl": "ram/generica.jpg",
+    "price": 15000,
+    "category": "Ram"
+  },
+  {
+    "id": 15,
+    "title": "Ram2",
+    "description": " Descripcion",
+    "pictureUrl": "ram/fury.webp",
+    "price": 20000,
+    "category": "Ram"
+  },
+  {
+    "id": 16,
+    "title": "Ram3",
+    "description": " Descripcion",
+    "price": 25000,
+    "pictureUrl": "ram/xpg.jpg",
+    "category": "Ram"
+  },
+  {
+    "id": 17,
+    "title": "Fuente1",
+    "description": " Descripcion",
+    "price": 10000,
+    "pictureUrl": "fuentes/fuente1.jpg",
+    "category": "Fuentes"
+  },
+  {
+    "id": 18,
+    "title": "Fuente2",
+    "description": " Descripcion",
+    "price": 12000,
+    "pictureUrl": "fuentes/fuente2.jpg",
+    "category": "Fuentes"
+  },
+  {
+    "id": 19,
+    "title": "Fuente3",
+    "description": " Descripcion",
+    "price": 17000,
+    "pictureUrl": "fuentes/fuente3.jpg",
+    "category": "Fuentes"
+  },
+  {
+    "id": 20,
+    "title": "Teclado 1",
+    "description": " Descripcion",
+    "price": 14000,
+    "pictureUrl": "teclados/teclado_hogareño_1.png",
+    "category": "Teclados"
+  },
+  {
+    "id": 21,
+    "title": "Teclado2",
+    "description": " Descripcion",
+    "price": 20000,
+    "pictureUrl": "teclados/teclado_gamer_1.png",
+    "category": "Teclados"
+  },
+  {
+    "id": 22,
+    "title": "Teclado3",
+    "description": " Descripcion",
+    "price": 35000,
+    "pictureUrl": "teclados/teclado_gamer_3.png",
+    "category": "Teclados"
+  },
+  {
+    "id": 23,
+    "title": "Mouse 1",
+    "description": " Descripcion",
+    "price": 4000,
+    "pictureUrl": "mouses/logitech.png",
+    "category": "Mouses"
+  },
+  {
+    "id": 24,
+    "title": "Mouse 2",
+    "description": " Descripcion",
+    "price": 7000,
+    "pictureUrl": "mouses/mouse-trust.png",
+    "category": "Mouses"
+  },
+  {
+    "id": 25,
+    "title": "Mouse 3",
+    "description": " Descripcion",
+    "price": 9000,
+    "pictureUrl": "mouses/logitech-2.png",
+    "category": "Mouses"
+  },
+  {
+    "id": 26,
+    "title": "Monitor 1",
+    "description": " Descripcion",
+    "price": 41000,
+    "pictureUrl": "monitores/monitor_hogareño_2.png",
+    "category": "Monitores"
+  },
+  {
+    "id": 27,
+    "title": "Monitor 2",
+    "description": " Descripcion",
+    "price": 60000,
+    "pictureUrl": "monitores/monitor_diseño_2.webp",
+    "category": "Monitores"
+  },
+  {
+    "id": 28,
+    "title": "Monitor 3",
+    "description": " Descripcion",
+    "price": 75000,
+    "pictureUrl": "monitores/monitor_destacado.png",
+    "category": "Monitores"
+  },
+  {
+    "id": 29,
+    "title": "Auricular 1",
+    "description": " Descripcion",
+    "price": 16000,
+    "pictureUrl": "auriculares/hx.png",
+    "category": "Auriculares"
+  },
+  {
+    "id": 30,
+    "title": "Auricular 2",
+    "description": " Descripcion",
+    "price": 20000,
+    "pictureUrl": "auriculares/logiech2.webp",
+    "category": "Auriculares"
+  },
+  {
+    "id": 31,
+    "title": "Auricular 3",
+    "description": " Descripcion",
+    "price": 35000,
+    "pictureUrl": "auriculares/logitech.png",
+    "category": "Auriculares"
+  }
+]
